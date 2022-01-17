@@ -3,9 +3,10 @@
 ## Tour
 
 ### Description
+tour.description =  R. Antônio de Oliveira Salazar, 863 - Jardim Sao Salvador, Taboão da Serra - SP
 
 ### Title
-tour.name = Sem Título 61
+tour.name = Óticas Carol Pirajussara - Tour Virtual 360°
 
 ## Skin
 
